@@ -1,0 +1,8 @@
+LanQiaoCup-2026-Training/
+├── 01-Basic/         # 基础题（模拟、枚举、字符串、数组）
+├── 02-Algorithm/     # 算法专题（DP、搜索、贪心、数论、图论）
+├── 03-Exam/          # 历年真题
+│   ├── Provincial/   # 省赛真题
+│   └── National/     # 国赛真题
+├── 04-Template/      # 竞赛代码模板
+└── README.md
